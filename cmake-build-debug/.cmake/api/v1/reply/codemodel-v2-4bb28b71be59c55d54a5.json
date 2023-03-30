@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "3.24"
@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "calculator::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-calculator-Debug-b97a67f1bd1c7d9b88c3.json",
+					"jsonFile" : "target-calculator-Debug-2a927bfb4425fb8e1ee4.json",
 					"name" : "calculator",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "E:/Users/pappr/Documents/repositories/calculator/cmake-build-debug",
-		"source" : "E:/Users/pappr/Documents/repositories/calculator"
+		"build" : "/home/joppo/Documents/calculator/cmake-build-debug",
+		"source" : "/home/joppo/Documents/calculator"
 	},
 	"version" : 
 	{

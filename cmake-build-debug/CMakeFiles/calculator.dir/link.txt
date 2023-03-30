@@ -1,0 +1,1 @@
+/bin/gcc -g CMakeFiles/calculator.dir/main.c.o CMakeFiles/calculator.dir/linear_algebra.c.o -o calculator 

@@ -2,10 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "calculator.exe"
-		},
-		{
-			"path" : "calculator.pdb"
+			"path" : "calculator"
 		}
 	],
 	"backtrace" : 1,
@@ -72,16 +69,12 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
-			},
-			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
-				"role" : "libraries"
 			}
 		],
 		"language" : "C"
 	},
 	"name" : "calculator",
-	"nameOnDisk" : "calculator.exe",
+	"nameOnDisk" : "calculator",
 	"paths" : 
 	{
 		"build" : ".",
