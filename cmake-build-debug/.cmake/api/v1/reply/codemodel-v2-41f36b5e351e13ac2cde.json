@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "calculator::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-calculator-Debug-2a927bfb4425fb8e1ee4.json",
+					"jsonFile" : "target-calculator-Debug-fb130e4ebf8380babaca.json",
 					"name" : "calculator",
 					"projectIndex" : 0
 				}
@@ -55,6 +55,6 @@
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 4
+		"minor" : 5
 	}
 }

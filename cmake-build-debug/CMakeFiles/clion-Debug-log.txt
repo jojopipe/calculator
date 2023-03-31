@@ -5,12 +5,6 @@
 -- Check for working C compiler: /bin/gcc - skipped
 -- Detecting C compile features
 -- Detecting C compile features - done
--- Configuring done
--- Generating done
-CMake Warning:
-  Manually-specified variables were not used by the project:
-
-    CMAKE_CXX_COMPILER
-
-
+-- Configuring done (0.2s)
+-- Generating done (0.0s)
 -- Build files have been written to: /home/joppo/Documents/calculator/cmake-build-debug
